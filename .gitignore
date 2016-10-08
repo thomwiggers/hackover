@@ -1,2 +1,3 @@
 guessr/guessr
 *.pyc
+.ropeproject
